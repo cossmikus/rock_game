@@ -1,2 +1,2 @@
 # rock_game
-Runs on local host
+Runs on index.html copy path local host
